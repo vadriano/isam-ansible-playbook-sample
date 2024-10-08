@@ -4,6 +4,14 @@ This repository contains a sample Playbook. It can be used as the starting point
 Orchestartion efforts. It uses Ansible ISAM Roles, which in turn uses "ibmsecurity" python
 package.
 
+## Deprecated
+
+This repository is no longer maintained nor monitored. 
+It's only here for reference.
+
+The playbooks have been included in the ISAM Ansible Collection (https://github.com/IBM-Security/isam-ansible-collection)
+To contribute or to submit issues, please use the ISAM Ansible Collection repository.
+
 ## Requirements
 
 Python v2.7.10 or v3.7.0 and above is required for this package.
