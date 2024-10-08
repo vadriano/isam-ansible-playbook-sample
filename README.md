@@ -7,7 +7,7 @@ package.
 ## Deprecated
 
 This repository is no longer maintained nor monitored. 
-It's only here for reference.
+It's only here for reference, as-is.
 
 The playbooks have been included in the ISAM Ansible Collection (https://github.com/IBM-Security/isam-ansible-collection)
 To contribute or to submit issues, please use the ISAM Ansible Collection repository.
